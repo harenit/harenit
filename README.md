@@ -7,13 +7,10 @@
 
 <!-- ==================== ANIMATED HERO ==================== -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2B193D,30:8055A5,65:E88EBB,100:F8BBD0&text=HARENI%20T&fontSize=76&fontColor=FFFFFF&fontAlignY=40&desc=Building%20intelligent%20things%20with%20code%20%E2%9C%A8&descSize=17&descAlignY=62&animation=fadeIn"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,40:EFA5C5,75:C5A3FF,100:9BDCEB&text=HARENI%20T&fontSize=76&fontColor=49314F&fontAlignY=40&desc=Building%20intelligent%20things%20with%20code%20%E2%9C%A8&descSize=17&descAlignY=62&animation=fadeIn"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,50:EFA5C5,100:C5A3FF&text=HARENI%20T&fontSize=76&fontColor=49314F" alt="Hareni Sakura banner"/>
-  </picture>
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:FFCDE0,100:E6C9F5&height=200&section=header&animation=fadeIn"
+  width="100%"
+/>
 
 <h1 align="center">
   こんにちは! Hello, I'm Hareni 🌸
